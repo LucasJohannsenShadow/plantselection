@@ -1,4 +1,4 @@
-# pantselection
+# plantselection
 
 algorithm capable of segmenting and measuring potted plants
 
